@@ -1,6 +1,6 @@
 # mycode
 This repo is from Advance python training  
 
-Abstract
+#Abstract
 
-#this is testing Github account 
+Tthis is testing Github account 
